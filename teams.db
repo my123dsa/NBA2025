@@ -1,0 +1,494 @@
+[ {
+  "id" : 1,
+  "name" : "Los Angeles Lakers",
+  "money" : 99000000,
+  "wins" : 4,
+  "totalGames" : 3,
+  "headCoach" : {
+    "name" : "Darvin Ham",
+    "age" : 50,
+    "salary" : 5000000,
+    "id" : 1,
+    "teamBonus" : 2000000
+  },
+  "players" : [ {
+    "name" : "Luka Doncic",
+    "age" : 26,
+    "salary" : 45000000,
+    "id" : 1,
+    "height" : 201,
+    "wingSpan" : 210,
+    "position" : "PG",
+    "stats" : {
+      "id" : 1,
+      "shoot" : 95,
+      "pass" : 98,
+      "dribble" : 96,
+      "rebound" : 80,
+      "block" : 50,
+      "steal" : 70,
+      "point3" : 89
+    },
+    "isFA" : false
+  }, {
+    "name" : "Austin Reaves",
+    "age" : 27,
+    "salary" : 12000000,
+    "id" : 2,
+    "height" : 196,
+    "wingSpan" : 203,
+    "position" : "SG",
+    "stats" : {
+      "id" : 2,
+      "shoot" : 85,
+      "pass" : 80,
+      "dribble" : 82,
+      "rebound" : 70,
+      "block" : 40,
+      "steal" : 60,
+      "point3" : 80
+    },
+    "isFA" : false
+  }, {
+    "name" : "LeBron James",
+    "age" : 40,
+    "salary" : 50000000,
+    "id" : 3,
+    "height" : 206,
+    "wingSpan" : 215,
+    "position" : "SF",
+    "stats" : {
+      "id" : 3,
+      "shoot" : 90,
+      "pass" : 95,
+      "dribble" : 88,
+      "rebound" : 85,
+      "block" : 60,
+      "steal" : 65,
+      "point3" : 78
+    },
+    "isFA" : false
+  }, {
+    "name" : "Dorian Finney-Smith",
+    "age" : 32,
+    "salary" : 13000000,
+    "id" : 4,
+    "height" : 201,
+    "wingSpan" : 215,
+    "position" : "PF",
+    "stats" : {
+      "id" : 4,
+      "shoot" : 75,
+      "pass" : 70,
+      "dribble" : 72,
+      "rebound" : 80,
+      "block" : 55,
+      "steal" : 50,
+      "point3" : 73
+    },
+    "isFA" : false
+  }, {
+    "name" : "Jaxson Hayes",
+    "age" : 25,
+    "salary" : 8000000,
+    "id" : 5,
+    "height" : 211,
+    "wingSpan" : 220,
+    "position" : "C",
+    "stats" : {
+      "id" : 5,
+      "shoot" : 65,
+      "pass" : 60,
+      "dribble" : 58,
+      "rebound" : 90,
+      "block" : 85,
+      "steal" : 45,
+      "point3" : 55
+    },
+    "isFA" : false
+  }, {
+    "name" : "Stephen Curry",
+    "age" : 37,
+    "salary" : 55000000,
+    "id" : 6,
+    "height" : 188,
+    "wingSpan" : 193,
+    "position" : "PG",
+    "stats" : {
+      "id" : 6,
+      "shoot" : 99,
+      "pass" : 92,
+      "dribble" : 95,
+      "rebound" : 60,
+      "block" : 30,
+      "steal" : 80,
+      "point3" : 99
+    },
+    "isFA" : false
+  }, {
+    "name" : "Spencer Dinwiddie",
+    "age" : 31,
+    "salary" : 8000000,
+    "id" : 21,
+    "height" : 196,
+    "wingSpan" : 201,
+    "position" : "PG",
+    "stats" : {
+      "id" : 21,
+      "shoot" : 78,
+      "pass" : 80,
+      "dribble" : 82,
+      "rebound" : 60,
+      "block" : 40,
+      "steal" : 65,
+      "point3" : 75
+    },
+    "isFA" : false
+  } ]
+}, {
+  "id" : 2,
+  "name" : "Golden State Warriors",
+  "money" : 183000000,
+  "wins" : 2,
+  "totalGames" : 3,
+  "headCoach" : {
+    "name" : "Steve Kerr",
+    "age" : 59,
+    "salary" : 6000000,
+    "id" : 2,
+    "teamBonus" : 1500000
+  },
+  "players" : [ {
+    "name" : "Stephen Curry",
+    "age" : 37,
+    "salary" : 55000000,
+    "id" : 6,
+    "height" : 188,
+    "wingSpan" : 193,
+    "position" : "PG",
+    "stats" : {
+      "id" : 6,
+      "shoot" : 99,
+      "pass" : 92,
+      "dribble" : 95,
+      "rebound" : 60,
+      "block" : 30,
+      "steal" : 80,
+      "point3" : 99
+    },
+    "isFA" : false
+  }, {
+    "name" : "Brandin Podziemski",
+    "age" : 22,
+    "salary" : 3000000,
+    "id" : 7,
+    "height" : 196,
+    "wingSpan" : 202,
+    "position" : "SG",
+    "stats" : {
+      "id" : 7,
+      "shoot" : 78,
+      "pass" : 75,
+      "dribble" : 77,
+      "rebound" : 65,
+      "block" : 35,
+      "steal" : 55,
+      "point3" : 80
+    },
+    "isFA" : false
+  }, {
+    "name" : "Jimmy Butler III",
+    "age" : 35,
+    "salary" : 37000000,
+    "id" : 8,
+    "height" : 201,
+    "wingSpan" : 210,
+    "position" : "SF",
+    "stats" : {
+      "id" : 8,
+      "shoot" : 85,
+      "pass" : 80,
+      "dribble" : 83,
+      "rebound" : 70,
+      "block" : 50,
+      "steal" : 75,
+      "point3" : 72
+    },
+    "isFA" : false
+  }, {
+    "name" : "Moses Moody",
+    "age" : 23,
+    "salary" : 4000000,
+    "id" : 9,
+    "height" : 198,
+    "wingSpan" : 210,
+    "position" : "PF",
+    "stats" : {
+      "id" : 9,
+      "shoot" : 75,
+      "pass" : 70,
+      "dribble" : 72,
+      "rebound" : 75,
+      "block" : 55,
+      "steal" : 60,
+      "point3" : 77
+    },
+    "isFA" : false
+  }, {
+    "name" : "Draymond Green",
+    "age" : 35,
+    "salary" : 25000000,
+    "id" : 10,
+    "height" : 198,
+    "wingSpan" : 210,
+    "position" : "C",
+    "stats" : {
+      "id" : 10,
+      "shoot" : 70,
+      "pass" : 85,
+      "dribble" : 78,
+      "rebound" : 85,
+      "block" : 70,
+      "steal" : 80,
+      "point3" : 65
+    },
+    "isFA" : false
+  }, {
+    "name" : "Austin Reaves",
+    "age" : 27,
+    "salary" : 12000000,
+    "id" : 2,
+    "height" : 196,
+    "wingSpan" : 203,
+    "position" : "SG",
+    "stats" : {
+      "id" : 2,
+      "shoot" : 85,
+      "pass" : 80,
+      "dribble" : 82,
+      "rebound" : 70,
+      "block" : 40,
+      "steal" : 60,
+      "point3" : 80
+    },
+    "isFA" : false
+  } ]
+}, {
+  "id" : 3,
+  "name" : "Boston Celtics",
+  "money" : 160000000,
+  "wins" : 3,
+  "totalGames" : 3,
+  "headCoach" : {
+    "name" : "Joe Mazzulla",
+    "age" : 36,
+    "salary" : 4000000,
+    "id" : 3,
+    "teamBonus" : 1500000
+  },
+  "players" : [ {
+    "name" : "Jrue Holiday",
+    "age" : 35,
+    "salary" : 37000000,
+    "id" : 11,
+    "height" : 193,
+    "wingSpan" : 200,
+    "position" : "PG",
+    "stats" : {
+      "id" : 11,
+      "shoot" : 85,
+      "pass" : 87,
+      "dribble" : 84,
+      "rebound" : 65,
+      "block" : 50,
+      "steal" : 85,
+      "point3" : 79
+    },
+    "isFA" : false
+  }, {
+    "name" : "Derrick White",
+    "age" : 31,
+    "salary" : 18000000,
+    "id" : 12,
+    "height" : 193,
+    "wingSpan" : 201,
+    "position" : "SG",
+    "stats" : {
+      "id" : 12,
+      "shoot" : 83,
+      "pass" : 82,
+      "dribble" : 81,
+      "rebound" : 60,
+      "block" : 45,
+      "steal" : 75,
+      "point3" : 80
+    },
+    "isFA" : false
+  }, {
+    "name" : "Jaylen Brown",
+    "age" : 28,
+    "salary" : 52000000,
+    "id" : 13,
+    "height" : 198,
+    "wingSpan" : 210,
+    "position" : "SF",
+    "stats" : {
+      "id" : 13,
+      "shoot" : 90,
+      "pass" : 78,
+      "dribble" : 85,
+      "rebound" : 75,
+      "block" : 60,
+      "steal" : 70,
+      "point3" : 81
+    },
+    "isFA" : false
+  }, {
+    "name" : "Jayson Tatum",
+    "age" : 27,
+    "salary" : 33000000,
+    "id" : 14,
+    "height" : 203,
+    "wingSpan" : 213,
+    "position" : "PF",
+    "stats" : {
+      "id" : 14,
+      "shoot" : 93,
+      "pass" : 80,
+      "dribble" : 86,
+      "rebound" : 80,
+      "block" : 55,
+      "steal" : 65,
+      "point3" : 85
+    },
+    "isFA" : false
+  }, {
+    "name" : "Kristaps Porzingis",
+    "age" : 30,
+    "salary" : 29000000,
+    "id" : 15,
+    "height" : 221,
+    "wingSpan" : 229,
+    "position" : "C",
+    "stats" : {
+      "id" : 15,
+      "shoot" : 85,
+      "pass" : 70,
+      "dribble" : 72,
+      "rebound" : 88,
+      "block" : 90,
+      "steal" : 50,
+      "point3" : 80
+    },
+    "isFA" : false
+  } ]
+}, {
+  "id" : 4,
+  "name" : "Oklahoma City Thunder",
+  "money" : 130000000,
+  "wins" : 3,
+  "totalGames" : 3,
+  "headCoach" : {
+    "name" : "Mark Daigneault",
+    "age" : 39,
+    "salary" : 3500000,
+    "id" : 4,
+    "teamBonus" : 1800000
+  },
+  "players" : [ {
+    "name" : "Shai Gilgeous-Alexander",
+    "age" : 26,
+    "salary" : 33000000,
+    "id" : 16,
+    "height" : 198,
+    "wingSpan" : 206,
+    "position" : "PG",
+    "stats" : {
+      "id" : 16,
+      "shoot" : 94,
+      "pass" : 88,
+      "dribble" : 92,
+      "rebound" : 70,
+      "block" : 45,
+      "steal" : 85,
+      "point3" : 85
+    },
+    "isFA" : false
+  }, {
+    "name" : "Josh Giddey",
+    "age" : 23,
+    "salary" : 6000000,
+    "id" : 17,
+    "height" : 203,
+    "wingSpan" : 210,
+    "position" : "SG",
+    "stats" : {
+      "id" : 17,
+      "shoot" : 78,
+      "pass" : 85,
+      "dribble" : 80,
+      "rebound" : 78,
+      "block" : 40,
+      "steal" : 60,
+      "point3" : 74
+    },
+    "isFA" : false
+  }, {
+    "name" : "Luguentz Dort",
+    "age" : 26,
+    "salary" : 17000000,
+    "id" : 18,
+    "height" : 193,
+    "wingSpan" : 206,
+    "position" : "SF",
+    "stats" : {
+      "id" : 18,
+      "shoot" : 75,
+      "pass" : 68,
+      "dribble" : 70,
+      "rebound" : 65,
+      "block" : 55,
+      "steal" : 75,
+      "point3" : 60
+    },
+    "isFA" : false
+  }, {
+    "name" : "Jalen Williams",
+    "age" : 24,
+    "salary" : 4000000,
+    "id" : 19,
+    "height" : 198,
+    "wingSpan" : 210,
+    "position" : "PF",
+    "stats" : {
+      "id" : 19,
+      "shoot" : 82,
+      "pass" : 80,
+      "dribble" : 82,
+      "rebound" : 72,
+      "block" : 50,
+      "steal" : 65,
+      "point3" : 70
+    },
+    "isFA" : false
+  }, {
+    "name" : "Chet Holmgren",
+    "age" : 23,
+    "salary" : 11000000,
+    "id" : 20,
+    "height" : 216,
+    "wingSpan" : 229,
+    "position" : "C",
+    "stats" : {
+      "id" : 20,
+      "shoot" : 80,
+      "pass" : 72,
+      "dribble" : 75,
+      "rebound" : 85,
+      "block" : 90,
+      "steal" : 60,
+      "point3" : 75
+    },
+    "isFA" : false
+  } ]
+} ]
